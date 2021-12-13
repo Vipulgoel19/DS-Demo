@@ -10,5 +10,8 @@ Install DocuSign eSignature for Salesforce Managed package in your Salesforce or
 
 Reference Docusign Postman : https://documenter.getpostman.com/view/9670139/TVKD1cnQ#66cc407f-5b74-4132-8f10-5747d386375e
 
+Docusign API Reference : https://developers.docusign.com/docs/esign-rest-api/reference/
+
+
 
 
